@@ -13,3 +13,7 @@ You can configure the project variables `birdy_x`, `birdy_y`, `birdy_scale` for 
 ### Installation
 
 Just unzip to the relevant user profiles `python\plugins` directory
+
+### Disclaimer
+
+Experimental pre-alpha: it will eat your homework
