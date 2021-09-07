@@ -26,4 +26,4 @@ Input geographic coordinates and scale in XYZ and click the birdy to fly. 0 rese
 
 ### Alternatives
 
-QGIS natively provides the Coordinate window for navigating to a position in map coordinates. The `go` function avaialble in the locator bar allows users to choose between centering on map coordinates and geographic coordinates. The QGIS interface provides the option of setting map Scale. Birdy just does the map centering and scaling together, but currently it only provides support for geographic coordinates.
+QGIS natively provides the Coordinate window for navigating to a position in map coordinates. The `go` function available in the locator bar allows users to choose between centering on map coordinates and geographic coordinates. The QGIS interface provides the option of setting map Scale. Birdy just does the map centering and scaling together, but currently it only provides support for geographic coordinates.
