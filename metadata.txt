@@ -1,0 +1,9 @@
+[general]
+name=Birdy
+description=Fly to coordinate and zoom to scale
+about=Minimalist QGIS plugin for allowing user to zoom to a geographic position at a user defined scale
+version=0.1
+qgisMinimumVersion=3.0
+author=Charlie
+email=charles@kartoza.com
+repository=https://github.com/zacharlie/qgis-birdy
